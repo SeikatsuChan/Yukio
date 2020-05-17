@@ -1,0 +1,22 @@
+{
+  "name": "yukio",
+  "description": "Discord bot created to be passive aggressive the more it's used.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "enmap": "^5.2.4",
+    "express": "^4.17.1",
+    "better-sqlite3": "^5.0.0",
+    "moment": "^2.25.3",
+    "moment-duration-format": "^2.2.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/SeiaktsuChan/Yukio"
+  }
+}
